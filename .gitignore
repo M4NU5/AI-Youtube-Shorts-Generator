@@ -9,6 +9,10 @@
 *.mp4
 *.webm
 
+input/
+
+processed_videos/
+
 # Virtual environment
 venv/
 
